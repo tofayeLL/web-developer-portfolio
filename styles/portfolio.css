@@ -196,3 +196,44 @@ main section {
     font-size: 16px;
     font-weight: 400;
 }
+
+
+
+/* Resume section related styles */
+.resume-container{
+    display: flex;
+    gap: 70px;
+}
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-item{
+    margin: 30px 0;
+}
+
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.resume-item-institute{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+.resume-item-descrip{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    width: 90%;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+   
+}
